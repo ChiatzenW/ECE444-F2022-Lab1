@@ -11,3 +11,8 @@ Chiatzen Wang
 ![s](https://i.imgur.com/4MCUeKS.png)
 
 [link to EP repo](https://github.com/ChiatzenW/ECE444-F2022-EP)
+
+![](https://i.imgur.com/nc79kle.png)
+
+![](https://i.imgur.com/TW6CDsi.png)
+

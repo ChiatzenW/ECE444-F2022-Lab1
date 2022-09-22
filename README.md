@@ -13,7 +13,7 @@ Chiatzen Wang
 ### ACT 5
 ![s](https://i.imgur.com/4MCUeKS.png)
 ### ACT 6
-[link to EP repo](https://github.com/ChiatzenW/ECE444-F2022-EP)
+## [link to EP repo](https://github.com/ChiatzenW/ECE444-F2022-EP)
 ### ACT 7
 ![](https://i.imgur.com/nc79kle.png)
 
